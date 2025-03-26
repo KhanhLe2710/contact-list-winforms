@@ -35,15 +35,16 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(441, 52);
+            label1.Location = new Point(332, 80);
             label1.Name = "label1";
             label1.Size = new Size(125, 20);
             label1.TabIndex = 0;
             label1.Text = "Danh sách liên hệ";
+            label1.Click += label1_Click;
             // 
             // button1
             // 
-            button1.Location = new Point(418, 252);
+            button1.Location = new Point(277, 176);
             button1.Name = "button1";
             button1.Size = new Size(233, 29);
             button1.TabIndex = 1;
