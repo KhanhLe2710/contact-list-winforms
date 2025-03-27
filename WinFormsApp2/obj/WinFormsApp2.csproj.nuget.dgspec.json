@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\Git1\\WinFormsApp1\\contact-list-winforms\\WinFormsApp2\\WinFormsApp2.csproj": {}
+    "D:\\Git\\Git1\\contact-list-winforms\\WinFormsApp2\\WinFormsApp2.csproj": {}
   },
   "projects": {
-    "D:\\Git\\Git1\\WinFormsApp1\\contact-list-winforms\\WinFormsApp2\\WinFormsApp2.csproj": {
+    "D:\\Git\\Git1\\contact-list-winforms\\WinFormsApp2\\WinFormsApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\Git1\\WinFormsApp1\\contact-list-winforms\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectUniqueName": "D:\\Git\\Git1\\contact-list-winforms\\WinFormsApp2\\WinFormsApp2.csproj",
         "projectName": "WinFormsApp2",
-        "projectPath": "D:\\Git\\Git1\\WinFormsApp1\\contact-list-winforms\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectPath": "D:\\Git\\Git1\\contact-list-winforms\\WinFormsApp2\\WinFormsApp2.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\Git1\\WinFormsApp1\\contact-list-winforms\\WinFormsApp2\\obj\\",
+        "outputPath": "D:\\Git\\Git1\\contact-list-winforms\\WinFormsApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
