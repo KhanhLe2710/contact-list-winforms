@@ -31,6 +31,8 @@
             textBox1 = new TextBox();
             textBox2 = new TextBox();
             button1 = new Button();
+            textBox3 = new TextBox();
+            label1 = new Label();
             SuspendLayout();
             // 
             // textBox1
@@ -60,11 +62,30 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // textBox3
+            // 
+            textBox3.Location = new Point(356, 340);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(125, 27);
+            textBox3.TabIndex = 3;
+            textBox3.Text = "EmaIl";
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(356, 421);
+            label1.Name = "label1";
+            label1.Size = new Size(129, 20);
+            label1.TabIndex = 4;
+            label1.Text = "Thông tin bổ sung";
+            // 
             // AddContactForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(label1);
+            Controls.Add(textBox3);
             Controls.Add(button1);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
@@ -79,5 +100,7 @@
         private TextBox textBox1;
         private TextBox textBox2;
         private Button button1;
+        private TextBox textBox3;
+        private Label label1;
     }
 }
